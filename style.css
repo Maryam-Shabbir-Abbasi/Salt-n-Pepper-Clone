@@ -1,0 +1,459 @@
+body {
+    background-color: black;
+    color: white;
+    content: normal;
+
+}
+
+.logo {
+    margin-left: 95px;
+    width: 165px;
+    position: absolute;
+    margin-top: -20px;
+}
+
+.main2 {
+
+    color: white;
+    word-spacing: 70px;
+    font-size: larger;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-top: 35px;
+}
+
+.main3 {
+    background-color: black;
+    color: white;
+    border-color: white;
+    word-spacing: 0px;
+    border-radius: 90px;
+    font-size: large;
+    margin-left: -1cm;
+}
+
+span {
+    font-family: "futurak";
+}
+
+.main4 {
+
+
+    background-color: red;
+    color: white;
+    border-color: red;
+    word-spacing: 0px;
+    border-radius: 120px;
+    font-size: large;
+    margin-top: -1.4cm;
+    margin-left: -1cm;
+
+
+
+}
+
+.main5 {
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.main6 {
+    text-align: center;
+    color: gray;
+    margin-top: -1cm;
+    font-size: 2rcap;
+
+}
+
+.img1 {
+    margin-right: 1cm;
+}
+
+.img3 {
+    margin-left: 1cm;
+}
+
+.buttons {
+    margin-top: 1cap;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.button1 {
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+
+}
+
+.button2 {
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+
+}
+
+.button3 {
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+    margin-left: cm;
+}
+
+.main7 {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.p1 {
+    color: red;
+    margin-left: 5cm;
+    font-size: larger;
+}
+
+.p2 {
+    margin-left: 5cm;
+    font-size: 40px;
+    margin-top: -0.5ch;
+}
+
+.main8 {
+    color: gray;
+    margin-left: 5cm;
+    font-size: larger;
+    margin-bottom: -1.5ch;
+}
+
+.islamabad {
+    margin-left: 20cm;
+    margin-top: -7.5cm;
+
+}
+
+.button4 {
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+    margin-left: 5cm;
+}
+
+.p3 {
+
+    color: red;
+    margin-left: 50cqmax;
+    font-size: larger;
+    margin-top: -19cqmax;
+}
+
+.p4 {
+    margin-left: 105cqh;
+    font-size: 40px;
+    margin-top: -0.5ch;
+}
+
+.main9 {
+    margin-left: 105cqh;
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+}
+
+.main00 {
+    margin-left: 16cqh;
+margin-top: -2cqh;
+
+
+
+}
+
+.fasail {
+    margin-left: 20cqh;
+
+
+}
+
+.img4 {
+    margin-left: -100ch;
+margin-bottom: -0cm;
+
+
+}
+
+.img5 {
+    margin-top: -505px;
+
+}
+
+.pkg {
+    margin-right: 110cqh;
+    color: red;
+    font-size: 20px;
+
+}
+
+.salt {
+    margin-right: 110cqh;
+    font-size: 30px;
+
+
+}
+
+.main10 {
+    margin-left: -110cqh;
+
+
+}
+
+.button5 {
+    border-radius: 100cm;
+    background-color: black;
+    color: white;
+    margin-right: 800px;
+    margin-bottom: -800px;
+}
+
+.img5 {
+    margin-bottom: 75cqh;
+    margin-left: -30cqh;
+    position: absolute;
+}
+
+.img6 {
+    margin-left: -90cqh;
+    margin-top: -505px;
+    position: absolute;
+}
+
+.center {
+    margin-right: -850px;
+    margin-top: -240px;
+}
+
+.center2 {
+    margin-right: -1700px;
+    margin-top: -240px;
+
+
+}
+
+.button6 {
+    background-color: lightgreen;
+    width: 60px;
+    border-radius: 100cm;
+    margin-left: -800px;
+}
+
+.center3 {
+    margin-right: -1700px;
+    margin-top: -400px;
+}
+
+.Opening {
+    color: red;
+    text-align: center;
+
+
+}
+
+.border1 {
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch;
+
+}
+.border2{
+
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 625px;
+    margin-top: -250px;
+
+}
+.border3{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 1100px;
+    margin-top: -250px;
+
+
+
+}
+.border4{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+.border5{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-right: -1100px;
+    margin-top: -250px;
+
+
+}
+.border5{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+.border6{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+.border7{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+.border8{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+.border9{
+    width: 350px;
+    border: 4px;
+    border-color: white;
+    border-radius: 1cm;
+    box-sizing: content-box;
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-left: 14ch
+
+}
+
+.img11 {
+    margin-left: 150px;
+}
+
+.content {
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+
+.mainborder02 {
+    margin-left: 35%;
+    margin-top: -17%;
+
+}
+
+.mainborder03 {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.socail{
+text-align: center;
+font-size: 50px;
+}
+.iamg{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+
+}
+.examples{
+font-size: larger;
+color: gray;
+display: flex;
+margin-left: 90px;
+
+}
+.links{
+color: gray;
+margin-left: 600px;
+margin-top: -390px;
+font-size: larger;
+
+}
+.Site{
+color: white;
+
+}
+.contacts{
+    color: gray;
+margin-left: 800px;
+font-size: larger;
+margin-top: -265px;
+
+}
+.follow{
+margin-left: 1255px;
+font-size: larger;
+}
+.icons{
+    margin-left: 1255px;
+
+
+}
+.apps{
+margin-top: -300px;
+
+}
